@@ -1,6 +1,6 @@
-# Eric Rodrigues Ferreira 😆
+<h1 align="center"> Eric Rodrigues Ferreira 😆 </h1>
 
-## Sobre Mim
+## Sobre Mim 
 - 📚 Cursando Engenharia de Software na Universidade Federal do Ceará - Campus Quixadá
 - 💻 Mantenho meu foco e estudos no mundo web
 - 💬 Fale comigo sobre: Rap, Música Clássica, Animes, História, Filosofia, Matemática, Programação, Linguagens, Natureza, Mundo Animal, Esportes e etc
