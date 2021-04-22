@@ -1,12 +1,12 @@
 <h1 align="center"> Eric Rodrigues Ferreira 😆 </h1>
 
 ## Sobre Mim 
-- 📚 Cursando Engenharia de Software na Universidade Federal do Ceará - Campus Quixadá
-- 💻 Mantenho meu foco e estudos no mundo web
-- 💬 Fale comigo sobre: Rap, Música Clássica, Animes, História, Filosofia, Matemática, Programação, Linguagens, Natureza, Mundo Animal, Esportes e etc
-- 📫 Email: ericdesenvolvedor7@gmail.com
-- 📌 Natural de Quixeramobim-CE | Morando em Horizonte-CE
-- 💭 "Não importa contra o se que luta, e sim pelo que luta"
+- 📚 Cursando Engenharia de Software na Universidade Federal do Ceará - Campus Quixadá.
+- 💻 Mantenho meu foco e estudos no mundo web.
+- 💬 Fale comigo sobre: Rap, Música Clássica, Animes, História, Filosofia, Matemática, Programação, Linguagens, Natureza, Mundo Animal, Esportes e etc.
+- 📫 Email: ericdesenvolvedor7@gmail.com.
+- 📌 Natural de Quixeramobim-CE | Morando em Horizonte-CE.
+- 💭 "Não importa contra o se que luta, e sim pelo que luta".
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericrodriguesfer&show_icons=true&theme=tokyonight)
 
