@@ -4,7 +4,7 @@
 - 💻 Atualmente mantenho meu foco e estudos no mundo web
 - 📫 Email: ericdesenvolvedor7@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericrodriguesfer&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericrodriguesfer&show_icons=true&theme=tokyonight)
 
 <!--
 **ericrodriguesfer/ericrodriguesfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
