@@ -6,7 +6,7 @@
 - 💬 Fale comigo sobre: Rap, Música Clássica, Animes, História, Filosofia, Matemática, Programação, Linguagens, Natureza, Mundo Animal, Esportes e etc.
 - 📫 Email: ericdesenvolvedor7@gmail.com.
 - 📌 Natural de Quixeramobim-CE | Morando em Horizonte-CE.
-- 💭 "Não importa contra o se que luta, e sim pelo que luta".
+- 💭 "Não importa contra o se que luta, e sim pelo que se luta".
 
 ## Fale Comigo
 [![Instagram Badge](https://img.shields.io/badge/-@__ericrf__-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/matheusfelipe14_/)](https://www.instagram.com/_ericrf_/) [![Gmail Badge](https://img.shields.io/badge/-ericdesenvolvedor7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericdesenvolvedor7@gmail.com)](mailto:ericdesenvolvedor7@gmail.com)
