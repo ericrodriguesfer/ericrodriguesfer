@@ -16,8 +16,8 @@
 
 <div align="center">
 
-### Fique livre para explorar os repositórios! 🔎
-### Deixe uma estrela no que você mais gostou! ⭐
+### Fique livre para 🔎 os repositórios! 
+### Deixe uma ⭐ no que você mais gostou! 
 
 </div>
 
