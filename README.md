@@ -1,10 +1,16 @@
 ### Oi, sou Eric Rodrigues Ferreira 👋
 
-- 📚 Atualmente curso Engenharia de Software na Universidade Federal do Ceará - Campus Quixadá
-- 💻 Atualmente mantenho meu foco e estudos no mundo web
+- 📚 Cursando Engenharia de Software na Universidade Federal do Ceará - Campus Quixadá
+- 💻 Mantenho meu foco e estudos no mundo web
+- 💬 Fale comigo sobre: Rap, Música Clássica, Animes, História, Filosofia, Matemática, Programação, Linguagens, Natureza, Mundo Animal, Esportes e etc
 - 📫 Email: ericdesenvolvedor7@gmail.com
+- 📌 Natural de Quixeramobim-CE | Morando em Horizonte-CE
+- 💭 "Não importa contra o se que luta, e sim pelo que luta"
 
-<span align="center"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericrodriguesfer&show_icons=true&theme=tokyonight)</span>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericrodriguesfer&show_icons=true&theme=tokyonight)
+
+[![Instagram Badge](https://img.shields.io/badge/-@matheusfelipe14__-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/matheusfelipe14_/)](https://www.instagram.com/_ericrf_/)
+<br>
 
 <!--
 **ericrodriguesfer/ericrodriguesfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
