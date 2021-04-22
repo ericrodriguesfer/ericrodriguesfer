@@ -1,4 +1,10 @@
-### Hi there 👋
+### Oi, sou Eric Rodrigues Ferreira 👋
+
+- 📚 Atualmente curso Engenharia de Software na Universidade Federal do Ceará - Campus Quixadá
+- 💻 Atualmente mantenho meu foco e estudos no mundo web
+- 📫 Email: ericdesenvolvedor7@gmail.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericrodriguesfer&show_icons=true&theme=radical)
 
 <!--
 **ericrodriguesfer/ericrodriguesfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
