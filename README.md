@@ -9,7 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericrodriguesfer&show_icons=true&theme=tokyonight)
 
-[![Instagram Badge](https://img.shields.io/badge/-@matheusfelipe14__-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/matheusfelipe14_/)](https://www.instagram.com/_ericrf_/)
+[![Instagram Badge](https://img.shields.io/badge/-@_ericrf__-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/matheusfelipe14_/)](https://www.instagram.com/_ericrf_/)
 <br>
 
 <!--
