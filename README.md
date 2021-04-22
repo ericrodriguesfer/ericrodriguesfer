@@ -1,5 +1,6 @@
-### Oi, sou Eric Rodrigues Ferreira 👋
+# Eric Rodrigues Ferreira 😆
 
+## Sobre Mim
 - 📚 Cursando Engenharia de Software na Universidade Federal do Ceará - Campus Quixadá
 - 💻 Mantenho meu foco e estudos no mundo web
 - 💬 Fale comigo sobre: Rap, Música Clássica, Animes, História, Filosofia, Matemática, Programação, Linguagens, Natureza, Mundo Animal, Esportes e etc
@@ -9,8 +10,16 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericrodriguesfer&show_icons=true&theme=tokyonight)
 
-[![Instagram Badge](https://img.shields.io/badge/-@_ericrf__-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/matheusfelipe14_/)](https://www.instagram.com/_ericrf_/)
+## Fale Comigo
+[![Instagram Badge](https://img.shields.io/badge/-@__ericrf__-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/matheusfelipe14_/)](https://www.instagram.com/_ericrf_/) [![Gmail Badge](https://img.shields.io/badge/-ericdesenvolvedor7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericdesenvolvedor7@gmail.com)](mailto:ericdesenvolvedor7@gmail.com)
 <br>
+
+<div align="center">
+
+### Fique livre para explorar os repositórios! 🔎
+### Deixe uma estrela no que você mais gostou! ⭐
+
+</div>
 
 <!--
 **ericrodriguesfer/ericrodriguesfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
