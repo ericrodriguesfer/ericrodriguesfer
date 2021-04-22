@@ -12,8 +12,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-@__ericrf__-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/matheusfelipe14_/)](https://www.instagram.com/_ericrf_/) [![Gmail Badge](https://img.shields.io/badge/-ericdesenvolvedor7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericdesenvolvedor7@gmail.com)](mailto:ericdesenvolvedor7@gmail.com)
 <br>
 
+<!--
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericrodriguesfer&show_icons=true&theme=tokyonight)
+-->
 
 <div align="center">
 
