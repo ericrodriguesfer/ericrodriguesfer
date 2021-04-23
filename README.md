@@ -1,5 +1,9 @@
 <h1 align="center"> Eric Rodrigues Ferreira 😆 </h1>
 
+<!--
+![](https://komarev.com/ghpvc/?username=ericrodriguesfer&style=flat)
+-->
+
 ## Sobre Mim 
 - 📚 Cursando Engenharia de Software na Universidade Federal do Ceará - Campus Quixadá.
 - 💻 Mantenho meu foco e estudos no mundo web.
