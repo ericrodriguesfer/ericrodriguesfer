@@ -45,12 +45,9 @@ Sou Eric Rodrigues Ferreira, meu primeiro contato com T.I (programação, lógic
 [![Linkedin Badge](https://img.shields.io/badge/ericrodriguesferreira-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ericrodriguesfer/)](https://www.linkedin.com/in/ericrodriguesfer/) [![Gmail Badge](https://img.shields.io/badge/ericdesenvolvedor7@gmail.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ericdesenvolvedor7@gmail.com)](mailto:ericdesenvolvedor7@gmail.com) [![Instagram Badge](https://img.shields.io/badge/@_ericrf_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_ericrf_/)](https://www.instagram.com/_ericrf_/)
   
 <br>
-<div align="center">
 
-### Fique livre para 🔎 os repositórios! 
-### Deixe uma ⭐ no que você mais gostou! 
-
-</div>
+<h3 align="center"> Fique livre para 🔎 os repositórios! </h3>
+<h3 align="center"> Deixe uma ⭐ no que você mais gostou! </h3>
 
 <!--
 **ericrodriguesfer/ericrodriguesfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
