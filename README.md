@@ -15,7 +15,7 @@ Sou Eric Rodrigues Ferreira, meu primeiro contato com <b>T.I</b> (programação,
   <img src="https://github-readme-stats.vercel.app/api?username=ericrodriguesfer&show_icons=true&theme=tokyonight" alt="ericrodriguesfer" />
 </p>
 
-<h1 align="left"> Linguagens e ferramentas (aprendizagem e evolução) <h1>
+<h1 align="left"> Linguagens e ferramentas (em aprendizagem e evolução) <h1>
 <code><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></code>
 <code><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></code>
 <code><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></code>
