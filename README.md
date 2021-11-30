@@ -35,7 +35,7 @@ Sou Eric Rodrigues Ferreira, meu primeiro contato com <b>T.I</b> (programação,
 <code><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></code>
 <code><img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></code>
 <code><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></code>
-<code><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></code>
+<code><img alt="Pop OS" src="https://img.shields.io/badge/Pop!_OS-FF7139?style=for-the-badge&logo=Pop!_OS&logoColor=white"/></code>
 
 <h1 align="center"> Tuor sobre minhas linguagens <img src="https://static.thenounproject.com/png/3308791-200.png" widht="30" height="30" alt="languages" /> </h1>
 <p align="center">
