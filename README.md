@@ -7,7 +7,7 @@ Sou Eric Rodrigues Ferreira, um brasileiro natural de Quixaramobim - Ceará. Sou
 
 <h1 align="center"> Overview sobre meu Git</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=ericrodriguesfer&show_icons=true&theme=tokyonight" width="450" align="left" alt="ericrodriguesfer" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericrodriguesfer&layout=compact&theme=tokyonight" width="380" align="right" alt="ericrodriguesfer" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericrodriguesfer&layout=compact&theme=tokyonight" width="350" align="right" alt="ericrodriguesfer" />
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
 <h1 align="center"> Linguagens e ferramentas<h1>
