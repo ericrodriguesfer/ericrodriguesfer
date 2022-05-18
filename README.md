@@ -1,29 +1,24 @@
 <h1 align="center"> <a href="https://www.linkedin.com/in/ericrodriguesfer/"> Eric Rodrigues Ferreira </a> 😆 </h1>
 
-<h1 align="left"> Sobre mim :sunglasses: </h1>
+<h1 align="center"> Sobre mim :sunglasses: </h1>
 <p align="justify">
-Sou Eric Rodrigues Ferreira, meu primeiro contato com <b>T.I</b> (programação, lógica, desenvolvimento e similares desse mundo tão vasto), foi com minha entrada no ensino médio, onde cursei o meu na <b>EEEP Maria Dolores Alcântara e Silva</b>, período esse que se deu de 2016 a 2018, onde cursei a base comum curricular em conjunto e paralelo ao <b>Curso de Técnico em Informática</b>, onde no mesmo pude passar pelas mais diversas materias e áreas da T.I, como: <b>Lógica de Programação</b> e <b>Portugol</b>, <b>Arquitetura e Manutenção de Computadores</b>, <b>Redes</b>, <b>SO</b>, <b>Java</b>, <b>PHP</b>, <b>Javascript</b>, <b>HTML</b>, <b>CSS</b>, <b>MySQL</b>, <b>Orientação a Objetos</b> entre outros. Após a conclusão do ensino médio, adentrei na nova e desafiadora jornada, o ensino superior, onde dei inicio ao <b>Curso de Engenharia de Software</b>, na <b>Universidade Federeal do Ceará UFC - Campus Quixadá</b>, essa nova etapa seu deu com inicio em 2019 com expectativa de conclusão em 2023, nesses 5 semestres de curso já passei por inúmeras cadeiras focadas em Engenharia mesmo como: <b>Interação Humano Computador IHC</b>, <b>Processos de Software</b>, <b>Engenharia de Requisitos</b>, <b>Análise e Projeto de Softwares</b>, <b>Projeto Detalhado de Software</b>, <b>Gerência de Configuração</b> entre outras tão incríveis. Focado no lado mais Matemático e Lógico da coisa, já passei por: <b>Matemática Básica</b>, <b>Matemática Discreta</b>, <b>Probabilidade e Estatística</b>, <b>Lógica para Computação</b>, <b>Linguagens de Programação</b> entre outras. Ao lado Lógico Programacional: <b>Fundamentos de Programação</b> (cadeira feita totalmente na linguaguem C), <b>Orientação a Objetos</b> (cadeira feita totalmente em Java), <b>Estrutura de Dados</b> (cadeira feita totalmente em C++), <b>Fundamentos de Banco de Dados</b> (cadeira totalmente feita em PostgreSQL) entre outras. Desde o momento da minha entrada no mundo de T.I com meu ingresso no ensino médio, me tornei um apaixonado por T.I, Inovação, Programação, Desafios e Soluções aos mesmos, Tecnologias. Gosto de aprender coisas novas e além de aprender coisas novas, as interligar com meus conhecimentos anteriores para sempre tentar da melhor forma sempre propor a melhor/possível solução a um problema. Meu conhecimento externo a faculdade e carreira acadêmica, foi angariado de estudos autodidata em meio ao mundo de conhecimentos grautitos que temos hoje ao acessar <a href="https://google.com" target="_blank"> Google.com</a>. Pretendo e estou na caminhada para me tornar um <b>Desenvolvedor Back-end</b> (:heart:)<!--sempre com foco no Mundo Web (:heart:)-->, meus conhecimentos e estudos hoje estão em torno de <b>Javascript</b>, <b>Typescript</b>, <b>Node.JS</b>, <b>Expres.JS</b>, <b>Nest.JS</b>, <b>Spring Boot</b>, <b>MongoDB</b>, <b>PostgreSQL</b>, <b>MySQL</b>, <b>Docker</b>, <b>TDD</b>, <b>SOLID</b>, <b>Design Patterns</b> entre outros.
+Sou Eric Rodrigues Ferreira, um brasileiro natural de Quixaramobim - Ceará. Sou fascinado por T.I, inovação, programação, desafios, tecnologias. Gosto de resolver problemas, sempre empregando as melhores técnicas e práticas possíveis para prover uma ótima solução. Meu conhecimento externo a faculdade e carreira acadêmica, foi angariado de estudos autodidata em meio ao mundo de conhecimentos grautitos que temos hoje ao acessar <a href="https://google.com" target="_blank"> Google.com</a>. Sou <b>Desenvolvedor Back-end</b> (:heart:), meus conhecimentos e estudos hoje estão em torno de <b>Javascript</b>, <b>Typescript</b>, <b>Node.JS</b>, <b>Expres.JS</b>, <b>Nest.JS</b>, <b>Spring Boot</b>, <b>MongoDB</b>, <b>PostgreSQL</b>, <b>MySQL</b>, <b>Docker</b>, <b>TDD</b>, <b>SOLID</b>, <b>Design Patterns</b> entre outros.
 </p>
 
-<h2 align="left"> Ocupação atual :man_office_worker: </h2>
-<p align="left"> <b> Cursando Engenharia de Software - UFC Campus Quixadá </b> :open_book: :computer: </p>
-<p align="left"> <b> Bolsista de Desenvolvimento Full-Stack Junior - <a href="https://github.com/InsightLab"> @Insight Data Science Lab </a> </b> :desktop_computer: :keyboard:</p>
+<h1 align="center"> Overview sobre meu Git</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=ericrodriguesfer&show_icons=true&theme=tokyonight" width="450" align="left" alt="ericrodriguesfer" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericrodriguesfer&layout=compact&theme=tokyonight" width="380" align="right" alt="ericrodriguesfer" />
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
-
-<h1 align="center"> Overview meu Git <img src="https://image.flaticon.com/icons/png/512/25/25231.png" widht="30" height="30" alt="git" /> </h1>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericrodriguesfer&show_icons=true&theme=tokyonight" alt="ericrodriguesfer" />
-</p>
-
-<h1 align="left"> Linguagens e ferramentas (em aprendizagem e evolução) <h1>
-<code><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></code>
-<code><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></code>
+<h1 align="center"> Linguagens e ferramentas<h1>
+<!--<code><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></code>-->
+<!--<code><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></code>-->
 <code><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></code>
 <code><img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
 <code><img alt="ExpressJs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/></code>
 <code><img alt="NestJs" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/></code>
 <code><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></code>
-<code><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
+<!--<code><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>-->
 <code><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></code>
 <code><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></code>
 <code><img alt="Spring boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></code>
@@ -36,11 +31,6 @@ Sou Eric Rodrigues Ferreira, meu primeiro contato com <b>T.I</b> (programação,
 <code><img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></code>
 <code><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></code>
 <code><img alt="Pop OS" src="https://img.shields.io/badge/Pop!_OS-FF7139?style=for-the-badge&logo=Pop!_OS&logoColor=white"/></code>
-
-<h1 align="center"> Tuor sobre minhas linguagens <img src="https://static.thenounproject.com/png/3308791-200.png" widht="30" height="30" alt="languages" /> </h1>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericrodriguesfer&layout=compact&theme=tokyonight" alt="ericrodriguesfer" />
-</p>
 
 <h1 align="left"> Fale comigo :speech_balloon: <h1>
   
