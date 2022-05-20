@@ -32,7 +32,7 @@ Sou Eric Rodrigues Ferreira, um brasileiro natural de Quixaramobim - Ceará. Sou
 <code><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></code>
 <code><img alt="Pop OS" src="https://img.shields.io/badge/Pop!_OS-FF7139?style=for-the-badge&logo=Pop!_OS&logoColor=white"/></code>
 
-<h1 align="left"> Fale comigo :speech_balloon: <h1>
+<h1 align="center"> Fale comigo :speech_balloon: <h1>
   
 [![Linkedin Badge](https://img.shields.io/badge/ericrodriguesferreira-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ericrodriguesfer/)](https://www.linkedin.com/in/ericrodriguesfer/) [![Gmail Badge](https://img.shields.io/badge/ericdesenvolvedor7@gmail.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ericdesenvolvedor7@gmail.com)](mailto:ericdesenvolvedor7@gmail.com) [![Instagram Badge](https://img.shields.io/badge/@_ericrf_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_ericrf_/)](https://www.instagram.com/_ericrf_/)
   
