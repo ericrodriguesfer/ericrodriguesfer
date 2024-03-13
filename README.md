@@ -2,7 +2,7 @@
 
 <h1 align="center"> Sobre mim :sunglasses: </h1>
 <p align="justify">
-Sou Eric Rodrigues Ferreira, um brasileiro natural de Quixaramobim - Ceará. Sou fascinado por T.I, inovação, programação, desafios, tecnologias. Gosto de resolver problemas, sempre empregando as melhores técnicas e práticas possíveis para prover uma ótima solução. Meu conhecimento externo a faculdade e carreira acadêmica, foi angariado de estudos autodidata em meio ao mundo de conhecimentos grautitos que temos hoje ao acessar <a href="https://google.com" target="_blank"> Google.com</a>. Sou <b>Desenvolvedor Back-end</b> (:heart:), meus conhecimentos e estudos hoje estão em torno de <b>Javascript</b>, <b>Typescript</b>, <b>Node.JS</b>, <b>Expres.JS</b>, <b>Nest.JS</b>, <b>Spring Boot</b>, <b>MongoDB</b>, <b>PostgreSQL</b>, <b>MySQL</b>, <b>Docker</b>, <b>TDD</b>, <b>SOLID</b>, <b>Design Patterns</b> entre outros.
+Sou Eric Rodrigues Ferreira, um brasileiro natural de Quixaramobim - Ceará. Sou fascinado por T.I, inovação, programação, desafios, tecnologias. Gosto de resolver problemas, sempre empregando as melhores técnicas e práticas possíveis para prover uma ótima solução. Meu conhecimento externo a faculdade e carreira acadêmica, foi angariado de estudos autodidata em meio ao mundo de conhecimentos grautitos que temos hoje ao acessar <a href="https://google.com" target="_blank"> Google.com</a>. Sou <b>Desenvolvedor Back-end</b> :heart:, meus conhecimentos e estudos hoje estão em torno de <b>Javascript</b>, <b>Typescript</b>, <b>Node.JS</b>, <b>Expres.JS</b>, <b>Nest.JS</b>, <b>Spring Boot</b>, <b>MongoDB</b>, <b>PostgreSQL</b>, <b>MySQL</b>, <b>Docker</b>, <b>TDD</b>, <b>SOLID</b>, <b>Design Patterns</b> entre outros.
 </p>
 
 <h1 align="center"> Overview sobre meu Git</h1>
